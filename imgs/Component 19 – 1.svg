@@ -1,0 +1,10 @@
+<svg id="Component_19_1" data-name="Component 19 – 1" xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="Ellipse_270" data-name="Ellipse 270" fill="none" stroke="#707070" stroke-width="1">
+    <circle cx="20.5" cy="20.5" r="20.5" stroke="none"/>
+    <circle cx="20.5" cy="20.5" r="20" fill="none"/>
+  </g>
+  <g id="bxl-linkedin" transform="translate(10.519 8)">
+    <path id="Path_2014" data-name="Path 2014" d="M9.267,6.769A2.537,2.537,0,1,1,6.729,4.232,2.537,2.537,0,0,1,9.267,6.769Z" transform="translate(-4.192 -4.232)" fill="#1f314e"/>
+    <path id="Path_2015" data-name="Path 2015" d="M11.765,13.181V27.258h4.371V20.3c0-1.837.346-3.616,2.623-3.616,2.246,0,2.274,2.1,2.274,3.732v6.847h4.373v-7.72c0-3.792-.816-6.707-5.249-6.707A4.6,4.6,0,0,0,16.02,15.1h-.059V13.18h-4.2Zm-7.123,0H9.02V27.258H4.643Z" transform="translate(-4.294 -6.183)" fill="#1f314e"/>
+  </g>
+</svg>
